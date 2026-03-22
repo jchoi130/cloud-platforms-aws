@@ -19,3 +19,20 @@ Successfully deployed a web server accessible via public DNS, demonstrating basi
 - EC2 deployment
 - Security group configuration
 - Cloud networking fundamentals
+
+## Screenshots
+
+### VPC Configuration
+![VPC](screenshots/vpc.png)
+
+### Subnet Configuration
+![Subnets](screenshots/subnets.png)
+
+### Security Group
+![Security Group](screenshots/security-group.png)
+
+### EC2 Instance
+![EC2](screenshots/ec2.png)
+
+### Web Server Output
+![Web Output](screenshots/web-output.png)
