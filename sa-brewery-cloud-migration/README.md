@@ -101,3 +101,7 @@ This project is based on an academic case study completed as part of the Cloud P
 The task involved analysing an existing on-premises IT infrastructure and designing a cloud migration solution using AWS services. The solution was implemented as a prototype within the AWS Academy Learner Lab environment, following a rehost (lift-and-shift) strategy.
 
 The full report included detailed technical analysis, cost considerations (CapEx vs OpEx), security planning, and deployment steps.
+
+## Architecture Diagram
+
+![Architecture](architecture-diagram.png)
