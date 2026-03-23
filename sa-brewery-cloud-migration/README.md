@@ -92,4 +92,12 @@ Successfully designed a scalable and secure cloud architecture that supports bus
 - Amazon EC2 and RDS deployment  
 - VPC, Subnets, and Networking  
 - Security Groups and access control  
-- Cloud cost and scalability planning  
+- Cloud cost and scalability planning
+
+## Project Context
+
+This project is based on an academic case study completed as part of the Cloud Platforms course at UniSA.
+
+The task involved analysing an existing on-premises IT infrastructure and designing a cloud migration solution using AWS services. The solution was implemented as a prototype within the AWS Academy Learner Lab environment, following a rehost (lift-and-shift) strategy.
+
+The full report included detailed technical analysis, cost considerations (CapEx vs OpEx), security planning, and deployment steps.
