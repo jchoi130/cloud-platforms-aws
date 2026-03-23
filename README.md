@@ -30,5 +30,11 @@ This project involved creating a basic AWS environment to simulate a small cloud
 
 The aim was to understand how cloud resources are provisioned and connected securely within a cloud platform.
 
+## Projects
+
+- RDS Database Lab → AWS RDS setup and web app connection  
+- VPC Web Server Lab → Virtual network and EC2 deployment  
+- SA Brewery Cloud Migration → AWS architecture design (EC2, RDS, VPC)
+
 ## Notes
 This repository is intended to demonstrate foundational cloud infrastructure skills and practical understanding of AWS services. It does not include credentials, private keys, or sensitive account information.
